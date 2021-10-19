@@ -1,9 +1,11 @@
 keras==2.6.0
 Keras-Preprocessing==1.1.2
-matplotlib @ file:///C:/ci/matplotlib-suite_1628011511716/work
-matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+matplotlib==3.4.2
 numpy==1.19.5
-pandas @ file:///C:/ci/pandas_1627570330330/work
-plotly @ file:///Users/nicolas/miniconda2/conda-bld/plotly_1628902437264/work/packages/python/plotly/dist/plotly-5.2.1.tar.gz
+pandas==1.3.1
 streamlit==1.0.0
 tensorflow==2.6.0
+librosa==0.8.1
+scipy==1.6.2
+simpleaudio==1.0.4
+pydub==0.25.1
