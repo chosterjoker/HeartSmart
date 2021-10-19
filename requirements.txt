@@ -7,5 +7,4 @@ streamlit==1.0.0
 tensorflow==2.6.0
 librosa==0.8.1
 scipy==1.6.2
-simpleaudio==1.0.4
 pydub==0.25.1
