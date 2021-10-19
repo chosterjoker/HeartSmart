@@ -9,7 +9,7 @@ from sklearn.utils import shuffle
 from sklearn.utils import class_weight
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
-import librosa as librosa
+import librosa
 import librosa as lr
 import librosa.display
 import IPython.display as ipd
