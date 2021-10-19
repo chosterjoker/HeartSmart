@@ -13,8 +13,6 @@ import librosa as librosa
 import librosa as lr
 import librosa.display
 import IPython.display as ipd
-import skimage
-import os
 import glob
 from tqdm import tqdm
 import itertools
@@ -31,7 +29,7 @@ import pydub
 from pydub import AudioSegment
 import matplotlib.cm as cm
 from matplotlib.colors import Normalize
-from PIL import Image
+
 
 #Important Functions
 def extract_relevant(wav_file,t1,t2):
